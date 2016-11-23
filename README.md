@@ -1,2 +1,2 @@
 # bitbucket-pull-request-helper
-Bitbucket Pull-Request Helper. Show whitespaces in Bitbucket pull-requests
+User script to show whitespaces in Bitbucket pull-requests and branches diffs
